@@ -1,3 +1,8 @@
+#adding confit.py file
+config.py
+API_practice.ipynb_checkpoints
+random0-numbers.ipynb_checkpoints
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
