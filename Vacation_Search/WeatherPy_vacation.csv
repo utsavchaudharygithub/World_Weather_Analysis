@@ -1,0 +1,153 @@
+City_ID,City,Country,Max Temp,Lat,Lng,Hotel Name
+0,Avarua,CK,78.85,-21.2078,-159.775,Paradise Inn
+2,Harper,LR,79.9,4.375,-7.7169,Screensaver
+4,Arraial do Cabo,BR,76.96,-22.9661,-42.0278,Pousada Porto Praia
+6,Rikitea,PF,76.06,-23.1203,-134.9692,People ThankYou
+7,Vaini,TO,82.56,-21.2,-175.2,Keleti Beach Resort
+9,Puerto Ayora,EC,75.16,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+10,Bandarbeyla,SO,75.63,9.4942,50.8122,JABIR HOTEL
+13,São João da Barra,BR,77.09,-21.6403,-41.0511,Pousada Porto De Canoas
+14,Kavaratti,IN,80.58,10.5669,72.642,Hotels in Lakshadweep Islands
+20,Hithadhoo,MV,81.23,-0.6,73.0833,Scoop Guest House
+30,Souillac,MU,77.38,-20.5167,57.5167,Shanti Maurice Resort & Spa
+35,Hilo,US,75.27,19.7297,-155.09,Hilo Hawaiian Hotel
+39,Kavieng,PG,82.51,-2.5744,150.7967,Nusa Island Retreat
+44,Mahébourg,MU,77.29,-20.4081,57.7,Shandrani Beachcomber Resort & Spa
+46,Butaritari,KI,83.14,3.0707,172.7902,Isles Sunset Lodge
+47,Mount Isa,AU,89.37,-20.7333,139.5,ibis Styles Mt Isa Verona
+48,Petrolina,BR,77.05,-9.3986,-40.5008,JB Hotel
+52,Poum,NC,81.18,-20.2333,164.0167,Gîte kajeon
+55,São Filipe,CV,76.05,14.8961,-24.4956,Hotel Xaguate
+57,Saint-Philippe,RE,76.55,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+65,Artigas,UY,81.14,-30.4,-56.4667,Hotel Casino San Eugenio del Cuareim
+77,Key West,US,75.99,24.5557,-81.7826,Fairfield Inn & Suites by Marriott Key West
+79,Itarema,BR,80.83,-2.9248,-39.9167,"Sea Lounge! Bar, Club & Restaurant"
+84,Padang,ID,77.05,-0.9492,100.3543,Mercure Padang
+89,Touros,BR,83.3,-5.1989,-35.4608,INN NEW HORIZON
+96,Grand Gaube,MU,77.4,-20.0064,57.6608,Veranda Paul et Virginie Hotel & Spa
+101,Tema,GH,82.81,5.667,-0.0166,Beulah Royale Hotel Tema
+117,Kailua,US,77.74,21.4022,-157.7394,Sheffield House Bed & Breakfast
+120,Bathsheba,BB,83.01,13.2167,-59.5167,Atlantis Hotel
+121,Atuona,PF,78.51,-9.8,-139.0333,Villa Enata
+127,George Town,MY,79.9,5.4112,100.3354,Cititel Penang
+128,Makakilo City,US,76.28,21.3469,-158.0858,Marriott's Ko Olina Beach Club
+129,Acaraú,BR,80.91,-2.8856,-40.12,castelo pizzaria
+140,Jérémie,HT,79.29,18.65,-74.1167,Auberge’Inn
+147,Fonte Boa,BR,78.15,-2.4959,-66.2662, 
+148,Marsh Harbour,BS,75.36,26.5412,-77.0636,Abaco Beach Resort
+149,Porto-Novo,BJ,84.02,6.4965,2.6036,Tour Eiffel Hotel Benin
+157,Antalaha,MG,76.35,-14.9003,50.2788,Hotel Vitasoa
+160,Mogadishu,SO,79.74,2.0371,45.3438,Hotel Juba
+167,Oddur,SO,75.56,4.1213,43.8894,Banjanay Hotel
+172,Lindi,TZ,75.79,-10.0,39.7167,Lindi paradise house
+173,Namatanai,PG,83.88,-3.6667,152.4333,Seagulls Inn Namatani
+175,Sittwe,MM,76.77,20.15,92.9,Hotel Memory
+177,Pedreiras,BR,76.5,-4.5688,-44.6003,Hotel Princesa do Mearim
+191,Vila Velha,BR,76.95,-20.3297,-40.2925,Quality Suites Vila Velha
+195,Bengkulu,ID,75.72,-3.8004,102.2655,Grage Hotel Bengkulu
+196,Sarangani,PH,81.59,5.4033,125.4636,Ballistic Islet
+197,Mapiri,BO,75.88,-15.25,-68.1667, 
+199,San Andrés,CO,84.22,12.5847,-81.7006,Hotel Arena Blanca
+201,Barstow,US,75.63,34.8986,-117.0228,"Motel 6 Barstow, CA"
+202,Vao,NC,76.12,-22.6667,167.4833,Hotel Kou-Bugny
+205,Houma,US,79.0,29.5958,-90.7195,Courtyard by Marriott Houma
+210,Punta Gorda,US,78.85,26.9298,-82.0454,Four Points by Sheraton Punta Gorda Harborside
+218,Kahului,US,76.26,20.8947,-156.47,Maui Seaside Hotel
+219,Mitsamiouli,KM,81.12,-11.3847,43.2844,Foyer ADM
+220,Faanui,PF,81.39,-16.4833,-151.75,Bora-Bora Pearl Beach Resort & Spa
+221,Brownwood,US,77.0,31.7093,-98.9912,La Quinta Inn & Suites by Wyndham Brownwood
+232,Del Rio,US,82.51,29.3627,-100.8968,"Holiday Inn Express & Suites del Rio, an IHG Hotel"
+238,Cockburn Town,TC,79.83,21.4612,-71.1419,Osprey Beach Hotel
+239,San Antonio,US,81.9,29.4241,-98.4936,Drury Plaza Hotel San Antonio Riverwalk
+240,Luwuk,ID,78.42,-0.9516,122.7875,Hotel Santika Luwuk
+243,Port Moresby,PG,79.09,-9.4431,147.1797,Lamana Hotel (Port Moresby)
+245,Monte Patria,CL,84.67,-30.6919,-70.9467,Hotel Monte Cordillera
+249,Pinotepa Nacional,MX,87.19,16.3167,-98.0167,Hotel Maria Del Carmen
+250,Vero Beach,US,76.05,27.6386,-80.3973,Kimpton Vero Beach Hotel & Spa
+252,Denpasar,ID,78.46,-8.65,115.2167,ASTON Denpasar Hotel & Convention Center
+253,Sabang,ID,80.64,5.8933,95.3214,Hotel Citra
+254,Tautira,PF,82.42,-17.7333,-149.15,Pension Oaoa
+256,San Buenaventura,MX,84.47,27.0833,-101.5333,Hotel Gran Plaza
+257,Marovoay,MG,78.94,-16.1,46.6333,Hôtel les Oliviers Marovoay
+262,Kloulklubed,PW,83.07,7.0419,134.2556,Storyboard Beach Resort
+265,Lorengau,PG,84.58,-2.0226,147.2712,Lorengau Harbourside Hotel
+266,Cabo San Lucas,MX,85.51,22.8909,-109.9124,Hotel Tesoro Los Cabos
+271,Sola,VU,83.07,-13.8833,167.55,Leumerus Bungalows
+272,Tello,CO,88.21,3.0669,-75.1378,Luis fernando cruz triana
+290,Cayenne,GF,77.04,4.9333,-52.3333,Hôtel Le Dronmi
+291,Biak,ID,77.0,-0.9131,122.8766,Penginapan Kim
+292,Hambantota,LK,75.54,6.1241,81.1185,Bungalow 63
+297,Alice Springs,AU,76.55,-23.7,133.8833,Desert Palms Alice Springs
+299,Lázaro Cárdenas,MX,82.74,17.9583,-102.2,quinta antigua
+301,Santo Antônio do Içá,BR,76.5,-3.1022,-67.9397,HOTEL AMAZON WAY
+313,Guajará,BR,76.98,-2.9667,-57.6667, 
+315,La Orilla,MX,82.49,17.9833,-102.2333,Baymont by Wyndham Lazaro Cardenas
+317,Ixtapa,MX,82.22,20.7,-105.2,Hotel Plaza Providencia
+324,Luganville,VU,81.88,-15.5333,167.1667,The Espiritu Hotel
+325,Kudahuvadhoo,MV,82.02,2.6708,72.8944,Niyama Private Islands Maldives
+327,Caravelas,BR,75.24,-17.7125,-39.2481,Pousada dos Navegantes
+335,San Patricio,US,84.29,28.017,-97.5169,"Motel 6 Sinton, TX"
+336,Pandan,PH,76.93,14.0453,124.1694,Bonifacio Lodge
+338,Moranbah,AU,80.28,-22.0016,148.0466,Direct Hotels - Monterey Moranbah
+343,Hobyo,SO,78.69,5.3505,48.5268,Halane Hotel and Restaurent
+348,Beruwala,LK,77.72,6.4788,79.9828,The Palms Hotel
+352,Villa Bruzual,VE,84.87,9.3328,-69.1208,hotel italia
+354,Kalmunai,LK,77.13,7.4167,81.8167,VS Villa
+356,Bowen,AU,79.02,-20.0167,148.2333,Castle Motor Lodge Motel
+365,Wewak,PG,77.83,-3.5534,143.6268,In Wewak Boutique Hotel
+371,São Miguel do Araguaia,BR,75.94,-13.275,-50.1628,Hotel Executivo Palace
+372,Kualakapuas,ID,75.36,-3.0091,114.3876,Guest House Izonk
+381,Koumac,NC,82.33,-20.5667,164.2833,Le Monitel
+382,Trenggalek,ID,75.29,-8.05,111.7167,OYO 2966 Hotel Atriaz
+385,Tanete,ID,76.44,-3.9443,119.7848,Wisma Tri Multi
+398,Buala,SB,83.93,-8.145,159.5921,Maringe Lagoon Lodge
+400,Inhambane,MZ,77.27,-23.865,35.3833,Oceano
+401,Imbituba,BR,75.09,-28.24,-48.6703,Praia Hotel Imbituba
+402,Yaan,NG,81.93,7.3833,8.5667, 
+404,Bitkine,TD,78.69,11.9801,18.2138, 
+409,Kibala,TD,75.15,9.1104,18.3463,hotel safari
+414,Haapiti,PF,82.13,-17.5667,-149.8667,Linareva Moorea Beach Resort
+416,Isangel,VU,84.31,-19.55,169.2667,Tanna Lodge
+417,Juba,SS,81.0,4.8517,31.5825,ROYAL PALACE HOTEL - JUBA
+423,Karratha,AU,85.01,-20.7377,116.8463,ibis Styles Karratha
+427,Bentiu,SS,79.65,9.2333,29.8333,Mandela hôtel
+429,Nabire,ID,76.96,-3.3667,135.4833,Hotel Nusantara Nabire
+438,Meulaboh,ID,75.87,4.1363,96.1285,Kost Pria
+439,Ourinhos,BR,81.88,-22.9789,-49.8706,Ville Park Hotel
+443,Cap Malheureux,MU,77.49,-19.9842,57.6142,Pereybere Hotel & Spa
+447,Bambous Virieux,MU,77.25,-20.3428,57.7575,Casa Tia Villa
+448,Palu,ID,75.87,-0.8917,119.8707,Hotel Santika Palu
+449,Atoyac,MX,81.01,20.0167,-103.5333,OYO Hotel Del Portal
+452,Saint-Joseph,RE,75.56,-21.3667,55.6167,"""Plantation Bed and Breakfast"
+453,Gizo Government Station,SB,83.37,-8.103,156.8419,Imagination Island
+459,Olinda,BR,82.13,-8.0089,-34.8553,Hotel Albergue de Olinda
+460,Ilesha,NG,75.2,7.1371,5.2583,Tosap Guest House
+461,Jiwani,PK,75.96,25.05,61.7417,Al Mumtaz Transport Jiwani
+462,Mlonggo,ID,78.69,-6.5333,110.7,Asia Metal Art
+463,Takoradze,GH,80.89,4.8845,-1.7554,Raybow International Hotel
+465,Kimbe,PG,77.95,-5.5502,150.1429,Kimbe Bay Hotel
+477,Balabac,PH,77.92,7.9868,117.0645,Sing and Swing Lodge
+478,Mahibadhoo,MV,82.13,3.7833,72.9667,Omadhoo Inn
+479,Languyan,PH,78.85,5.2618,120.0807, 
+481,Christchurch,NZ,77.0,-43.5333,172.6333,The George
+483,Bara,NG,77.74,10.3744,10.7288, 
+484,Port Blair,IN,78.93,11.6667,92.75,"Welcomhotel By ITC Hotels, Bay Island, Port Blair"
+493,Jesús María,AR,78.01,-30.9815,-64.0942,Posada Los Platanos
+498,Port-Gentil,GA,80.35,-0.7193,8.7815,Fengshui Residence
+501,Labuhan,ID,77.43,-6.8844,112.2051,PT PPI Lamongan Tambak C
+507,Djenné,ML,79.57,13.9061,-4.5533,Hôtel Chez Baba
+515,Carutapera,BR,78.51,-1.195,-46.02,Lidera
+516,Kampot,KH,75.25,10.6167,104.1833,Two Moons Hotel
+518,Ko Samui,TH,79.88,9.5357,99.9357,The Passage
+522,Finschhafen,PG,80.82,-6.6024,147.8681,Cossam Guest House
+525,Mumford,GH,81.1,5.2618,-0.759,Spanish Villa
+530,Kalutara,LK,77.09,6.5831,79.9593,Tangerine Beach Hotel
+532,Tucumã,BR,77.7,-0.1833,-50.05, 
+533,Cuichapa,MX,77.38,18.7667,-96.8667,LA LAGUNA
+537,Iporá,BR,77.74,-16.4419,-51.1178,Oásis Motel
+541,Saint-Pierre,RE,76.64,-21.3393,55.4781,Lindsey Hôtel
+544,Riberalta,BO,84.92,-10.9833,-66.1,Hotel Colonial
+545,Tual,ID,81.75,-5.6667,132.75,Grand Vilia Hotel
+548,Jacareacanga,BR,75.49,-6.2222,-57.7528,Casa do Ian😎
+551,Calabozo,VE,88.93,8.9242,-67.4293,Hotel Giardini
+552,Quatre Cocos,MU,77.09,-20.2078,57.7625,Sunrise Attitude Hotel
